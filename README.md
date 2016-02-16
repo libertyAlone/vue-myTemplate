@@ -1,4 +1,4 @@
-# vue-myTemplate
+# vue-myTemplate based on vue-cli webpack
 
 > 自定义vue工程模板
 
